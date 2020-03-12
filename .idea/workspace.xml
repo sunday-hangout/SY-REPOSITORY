@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b8e7380-1819-4161-a0be-cde1181e21b2" name="Default Changelist" comment="" />
+    <list default="true" id="3b8e7380-1819-4161-a0be-cde1181e21b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z0Rp2GxiL2gDBIfjeRZd2MLZhL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
@@ -66,9 +71,17 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="676" y="202" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1583974306942" />
+    <state x="700" y="139" key="CommitChangelistDialog2" timestamp="1583975213053">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="700" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1583975213053" />
     <state x="933" y="437" width="680" height="199" key="Github.ShareDialog" timestamp="1583974759987">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="933" y="437" width="680" height="199" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583974759987" />
+    <state x="676" y="276" key="Vcs.Push.Dialog.v2" timestamp="1583975174034">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="676" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1583975174034" />
   </component>
 </project>
