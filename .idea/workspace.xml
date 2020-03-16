@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8e7380-1819-4161-a0be-cde1181e21b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Stack_Queue/다리를지나는트럭/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hash/완주하지못한선수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hash/완주하지못한선수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hash/위장/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hash/위장/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hash/전화번호목록/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hash/전화번호목록/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stack_Queue/탑/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack_Queue/탑/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack_Queue/다리를지나는트럭/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack_Queue/다리를지나는트럭/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +47,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Stack_Queue.다리를지나는트럭" />
       <recent name="Hash.베스트앨범" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.solution">
+  <component name="RunManager" selected="JUnit.SolutionTest.solution (1)">
     <configuration name="SolutionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -97,6 +95,22 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="SolutionTest.solution (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programmers.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack_Queue.다리를지나는트럭.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack_Queue.다리를지나는트럭" />
+      <option name="MAIN_CLASS_NAME" value="Stack_Queue.다리를지나는트럭.SolutionTest" />
+      <option name="METHOD_NAME" value="solution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="programmers.test" />
       <extension name="coverage">
@@ -115,6 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.solution (1)" />
         <item itemvalue="JUnit.SolutionTest.solution" />
         <item itemvalue="Gradle.SolutionTest" />
         <item itemvalue="Gradle.SolutionTest.solution" />
@@ -158,43 +173,51 @@
       <option name="project" value="LOCAL" />
       <updated>1583976199154</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[1주차][해시] - 완주하지못한선수,위장,전화번호목록,탑 풀이">
+      <created>1584159867618</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584159867618</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore 추가" />
     <MESSAGE value="[1주차][해시] - 베스트 앨범 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="[1주차][해시] - 베스트 앨범 풀이" />
+    <MESSAGE value="[1주차][해시] - 완주하지못한선수,위장,전화번호목록,탑 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="[1주차][해시] - 완주하지못한선수,위장,전화번호목록,탑 풀이" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="202" key="#Project_Structure" timestamp="1583974306942">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="676" y="202" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1583974306942" />
-    <state x="700" y="139" key="CommitChangelistDialog2" timestamp="1583976199018">
+    <state x="922" y="138" key="CommitChangelistDialog2" timestamp="1584159867466">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="700" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1583976199018" />
+    <state x="922" y="138" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1584159867466" />
     <state x="933" y="437" width="680" height="199" key="Github.ShareDialog" timestamp="1583974759987">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="933" y="437" width="680" height="199" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583974759987" />
-    <state width="1608" height="280" key="GridCell.Tab.0.bottom" timestamp="1583979970988">
+    <state width="1032" height="280" key="GridCell.Tab.0.bottom" timestamp="1584348406163">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1608" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583979970988" />
-    <state width="1608" height="280" key="GridCell.Tab.0.center" timestamp="1583979970987">
+    <state width="1032" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1584348406163" />
+    <state width="1032" height="280" key="GridCell.Tab.0.center" timestamp="1584348406162">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1608" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583979970987" />
-    <state width="1608" height="280" key="GridCell.Tab.0.left" timestamp="1583979970987">
+    <state width="1032" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1584348406162" />
+    <state width="1032" height="280" key="GridCell.Tab.0.left" timestamp="1584348406161">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1608" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583979970987" />
-    <state width="1608" height="280" key="GridCell.Tab.0.right" timestamp="1583979970987">
+    <state width="1032" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1584348406161" />
+    <state width="1032" height="280" key="GridCell.Tab.0.right" timestamp="1584348406162">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1608" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583979970987" />
+    <state width="1032" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1584348406162" />
     <state width="917" height="345" key="GridCell.Tab.1.bottom" timestamp="1583979970981">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -215,13 +238,13 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="683" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1583976045285" />
-    <state x="676" y="276" key="Vcs.Push.Dialog.v2" timestamp="1583976201968">
+    <state x="676" y="276" key="Vcs.Push.Dialog.v2" timestamp="1584159870201">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="676" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1583976201968" />
-    <state x="834" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583975795852">
+    <state x="676" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1584159870201" />
+    <state x="834" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584346838388">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="834" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583975795852" />
+    <state x="834" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1584346838388" />
   </component>
 </project>
