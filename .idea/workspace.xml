@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8e7380-1819-4161-a0be-cde1181e21b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Stack_Queue/주식가격/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Stack_Queue/주식가격/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack_Queue/프린터/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -210,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584750932881</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[2주차][스택] - 쇠막대기">
+      <created>1584753993105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584753993106</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,17 +227,18 @@
     <MESSAGE value="[1주차][해시] - 완주하지못한선수,위장,전화번호목록,탑 풀이" />
     <MESSAGE value="[2주차][큐] - 다리를 지나는 트럭" />
     <MESSAGE value="[2주차][스택] - 주식가격" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2주차][스택] - 주식가격" />
+    <MESSAGE value="[2주차][스택] - 쇠막대기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2주차][스택] - 쇠막대기" />
   </component>
   <component name="WindowStateProjectService">
     <state x="676" y="202" key="#Project_Structure" timestamp="1583974306942">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="676" y="202" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1583974306942" />
-    <state x="922" y="138" key="CommitChangelistDialog2" timestamp="1584750932718">
+    <state x="922" y="138" key="CommitChangelistDialog2" timestamp="1584753992887">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="922" y="138" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1584750932718" />
+    <state x="922" y="138" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1584753992887" />
     <state x="933" y="437" width="680" height="199" key="Github.ShareDialog" timestamp="1583974759987">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -270,10 +279,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="683" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1583976045285" />
-    <state x="676" y="276" key="Vcs.Push.Dialog.v2" timestamp="1584751041399">
+    <state x="676" y="276" key="Vcs.Push.Dialog.v2" timestamp="1584753995329">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="676" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1584751041399" />
+    <state x="676" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1584753995329" />
     <state x="834" y="270" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584750822466">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
