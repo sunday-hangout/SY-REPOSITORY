@@ -1,5 +1,6 @@
 package Heap.이중우선순위큐;
 
+import java.util.Comparator;
 import java.util.PriorityQueue;
 
 class Solution {
