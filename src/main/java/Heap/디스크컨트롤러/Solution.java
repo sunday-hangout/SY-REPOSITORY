@@ -28,7 +28,7 @@ public class Solution {
 
         PriorityQueue<Request> controller = new PriorityQueue<>();
 
-        Arrays.sort(jobs,new Comparator<int []>() {
+        Arrays.sort(jobs, new Comparator<int []>() {
 
             @Override
             public int compare(int[] o1, int[] o2) {
